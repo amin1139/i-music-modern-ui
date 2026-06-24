@@ -1,34 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- Base background gradient (deep space navy) -->
-    <color name="bg_dark">#0A0A14</color>
-    <color name="bg_dark_end">#15152B</color>
-    <color name="bg_surface">#1A1A2E</color>
-    <color name="bg_card">#16213E</color>
+    <!-- Base background (deep black-purple, matches reference design) -->
+    <color name="bg_dark">#0B0A14</color>
+    <color name="bg_dark_end">#15101F</color>
+    <color name="bg_surface">#181321</color>
+    <color name="bg_card">#1C1729</color>
 
-    <!-- Glass surfaces: translucent layers over the gradient -->
-    <color name="glass_fill">#1FFFFFFF</color>
-    <color name="glass_fill_strong">#2EFFFFFF</color>
-    <color name="glass_stroke">#33FFFFFF</color>
-    <color name="glass_stroke_soft">#1AFFFFFF</color>
-    <color name="glass_highlight">#40FFFFFF</color>
+    <!-- Glass surfaces: translucent dark-purple layers over the gradient -->
+    <color name="glass_fill">#241E1A2D</color>
+    <color name="glass_fill_strong">#332A2238</color>
+    <color name="glass_stroke">#26FFFFFF</color>
+    <color name="glass_stroke_soft">#14FFFFFF</color>
+    <color name="glass_highlight">#33FFFFFF</color>
 
-    <!-- Accent: electric violet + cyan glow -->
-    <color name="accent_purple">#8B5CF6</color>
-    <color name="accent_purple_dark">#6D28D9</color>
-    <color name="accent_cyan">#22D3EE</color>
-    <color name="accent_gradient_start">#8B5CF6</color>
-    <color name="accent_gradient_end">#22D3EE</color>
-    <color name="glow_purple">#5C8B5CF6</color>
+    <!-- Accent: single vibrant violet (mono-purple, matches reference design) -->
+    <color name="accent_purple">#7C5CFC</color>
+    <color name="accent_purple_dark">#5B3FD4</color>
+    <color name="accent_cyan">#7C5CFC</color>
+    <color name="accent_gradient_start">#9D6BFF</color>
+    <color name="accent_gradient_end">#7C5CFC</color>
+    <color name="glow_purple">#668B5CF6</color>
+    <color name="glow_pink">#66E879F9</color>
 
     <!-- Text -->
     <color name="text_primary">#FFFFFF</color>
-    <color name="text_secondary">#9A9AB5</color>
-    <color name="text_tertiary">#6B6B85</color>
+    <color name="text_secondary">#9B92B5</color>
+    <color name="text_tertiary">#6E6585</color>
 
     <color name="white">#FFFFFF</color>
     <color name="black">#000000</color>
-    <color name="colorPrimary">#8B5CF6</color>
-    <color name="colorPrimaryDark">#6D28D9</color>
-    <color name="colorAccent">#8B5CF6</color>
+    <color name="colorPrimary">#7C5CFC</color>
+    <color name="colorPrimaryDark">#5B3FD4</color>
+    <color name="colorAccent">#7C5CFC</color>
 </resources>
