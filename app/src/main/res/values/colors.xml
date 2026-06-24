@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base background gradient (deep space navy) -->
+    <color name="bg_dark">#0A0A14</color>
+    <color name="bg_dark_end">#15152B</color>
+    <color name="bg_surface">#1A1A2E</color>
+    <color name="bg_card">#16213E</color>
+
+    <!-- Glass surfaces: translucent layers over the gradient -->
+    <color name="glass_fill">#1FFFFFFF</color>
+    <color name="glass_fill_strong">#2EFFFFFF</color>
+    <color name="glass_stroke">#33FFFFFF</color>
+    <color name="glass_stroke_soft">#1AFFFFFF</color>
+    <color name="glass_highlight">#40FFFFFF</color>
+
+    <!-- Accent: electric violet + cyan glow -->
+    <color name="accent_purple">#8B5CF6</color>
+    <color name="accent_purple_dark">#6D28D9</color>
+    <color name="accent_cyan">#22D3EE</color>
+    <color name="accent_gradient_start">#8B5CF6</color>
+    <color name="accent_gradient_end">#22D3EE</color>
+    <color name="glow_purple">#5C8B5CF6</color>
+
+    <!-- Text -->
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#9A9AB5</color>
+    <color name="text_tertiary">#6B6B85</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="colorPrimary">#8B5CF6</color>
+    <color name="colorPrimaryDark">#6D28D9</color>
+    <color name="colorAccent">#8B5CF6</color>
+</resources>
